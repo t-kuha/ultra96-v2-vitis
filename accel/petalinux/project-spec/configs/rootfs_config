@@ -2230,7 +2230,7 @@ CONFIG_run-postinsts=y
 # xrt
 #
 CONFIG_xrt=y
-# CONFIG_xrt-dev is not set
+CONFIG_xrt-dev=y
 # CONFIG_xrt-dbg is not set
 
 #
@@ -4228,8 +4228,8 @@ CONFIG_freeimage=y
 # user packages 
 #
 CONFIG_fuse-exfat=y
-# CONFIG_opencl-clhpp-dev is not set
-# CONFIG_opencl-headers-dev is not set
+CONFIG_opencl-clhpp-dev=y
+CONFIG_opencl-headers-dev=y
 
 #
 # PetaLinux RootFS Settings
