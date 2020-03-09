@@ -2142,7 +2142,7 @@ CONFIG_run-postinsts=y
 #
 # opencv 
 #
-# CONFIG_opencv is not set
+CONFIG_opencv=y
 # CONFIG_opencv-dbg is not set
 # CONFIG_opencv-apps is not set
 # CONFIG_opencv-dev is not set
