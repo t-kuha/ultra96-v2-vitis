@@ -4225,11 +4225,17 @@ CONFIG_freeimage=y
 # CONFIG_peekpoke is not set
 
 #
+# modules 
+#
+CONFIG_wilc=y
+
+#
 # user packages 
 #
 CONFIG_fuse-exfat=y
 CONFIG_opencl-clhpp-dev=y
 CONFIG_opencl-headers-dev=y
+CONFIG_wilc3000-fw=y
 
 #
 # PetaLinux RootFS Settings

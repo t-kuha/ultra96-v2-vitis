@@ -12,3 +12,7 @@ CONFIG_packagegroup-petalinux-opencv
 
 CONFIG_freeimage
 CONFIG_fuse-exfat
+
+CONFIG_wilc3000-fw
+CONFIG_wilc
+
