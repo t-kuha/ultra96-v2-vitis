@@ -9,3 +9,9 @@
     };
 };
 
+/* SD0 only supports 3.3V, no level shifter */
+&sdhci0 {
+	no-1-8-v;
+	disable-wp;
+};
+
