@@ -4220,12 +4220,14 @@ CONFIG_imagefeature-hwcodecs=y
 #
 # apps 
 #
+CONFIG_freeimage=y
 # CONFIG_gpio-demo is not set
 # CONFIG_peekpoke is not set
 
 #
 # user packages 
 #
+# CONFIG_fuse-exfat is not set
 # CONFIG_opencl-clhpp-dev is not set
 # CONFIG_opencl-headers-dev is not set
 
