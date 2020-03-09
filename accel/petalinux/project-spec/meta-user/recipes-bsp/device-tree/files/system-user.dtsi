@@ -1,5 +1,7 @@
 /include/ "system-conf.dtsi"
 / {
+	model = "Avnet Ultra96 Ver.2";
+
 	wmmcsdio_fixed: fixedregulator-mmcsdio {
 		compatible = "regulator-fixed";
 		regulator-name = "wmmcsdio_fixed";
