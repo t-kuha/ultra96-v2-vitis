@@ -4227,7 +4227,7 @@ CONFIG_freeimage=y
 #
 # user packages 
 #
-# CONFIG_fuse-exfat is not set
+CONFIG_fuse-exfat=y
 # CONFIG_opencl-clhpp-dev is not set
 # CONFIG_opencl-headers-dev is not set
 
