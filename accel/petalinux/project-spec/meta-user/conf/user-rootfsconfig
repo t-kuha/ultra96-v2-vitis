@@ -11,4 +11,4 @@ CONFIG_opencl-headers-dev
 CONFIG_packagegroup-petalinux-opencv
 
 CONFIG_freeimage
-
+CONFIG_fuse-exfat
