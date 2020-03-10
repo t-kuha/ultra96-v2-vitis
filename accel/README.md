@@ -4,6 +4,20 @@
 
 ***
 
+## Clock settings
+
+- Default clokc is No.2 (200 MHz)
+
+| No. | Speed [MHz] |
+|----:|------------:|
+|   0 |         100 |
+|   1 |         150 |
+|   2 |         200 |
+|   3 |         250 |
+|   4 |         300 |
+
+***
+
 ## Create hardware
 
 ```shell-session
